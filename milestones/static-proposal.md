@@ -1,5 +1,6 @@
 # Daniela Ayala Chavez 
-## Title: Geographic Hotspot Identification for migration factors
+
+## Geographic Hotspot Identification for migration factors
 
 ## Description
 This project will explore how visualization and spatial analytics can reveal geographic “hotspots” of migration risk using open data. The core idea is to combine multiple socioeconomic and environmental indicators — such as poverty, unemployment, education levels, remittances, and climate risk — into a composite migration-risk score for each region.
