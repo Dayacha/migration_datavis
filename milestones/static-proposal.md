@@ -48,7 +48,7 @@ The **Caribbean** maintains high levels of outward migration relative to its pop
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
   <img src="chart_01_bars_LAC_gender.png" width="48%">
-  <img src="chart_01_bars_LAC_subregion.png" width="48%">
+  <img src="chart_01_bars_LAC.png" width="48%">
 </div>
 
 ---
