@@ -12,4 +12,4 @@ This project will explore how visualization and spatial analytics can reveal geo
 - Size: thausands of indicators across countries
 - Includes socioeconomic indicators (GDP per capita, unemployment rate, remittances, education, health) that can be used to identify structural vulnerabilities influencing migration.
 
-![](milestones/chart_01_bars_LAC_Caribbean.png)
+![Chart]("chart_01_bars_LAC_Caribbean.png")
