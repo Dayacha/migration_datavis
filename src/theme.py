@@ -3,7 +3,7 @@ import altair as alt
 def lac_theme():
     return {
         "config": {
-            # ----- TITLE -----
+           
             "title": {
                 "fontSize": 18,
                 "fontWeight": "normal",
@@ -14,7 +14,7 @@ def lac_theme():
                 "subtitleFontSize": 13,
                 "subtitleColor": "#4B5563"
             },
-            # ----- TEXT LABELS -----
+            
             "text": {
                 "fontSize": 11,
                 "fontWeight": "normal",
@@ -23,12 +23,12 @@ def lac_theme():
                 "align": "center",
                 "baseline": "middle"
             },
-            # ----- NUMBER FORMATTING -----
-            # This affects numeric labels, axes, legends, tooltips, etc.
-            "numberFormat": ".1f",  # 👈 one decimal everywhere
-            # ----- VIEW FRAME -----
+        
+            
+            "numberFormat": ".1f",  
+            
             "view": {"stroke": None},
-            # ----- AXES -----
+            
             "axis": {
                 "labelFontSize": 11,
                 "titleFontSize": 12,
@@ -41,7 +41,7 @@ def lac_theme():
                 "labelAlign": "right",  
                 "titleAlign": "right"
             },
-            # ----- LEGEND -----
+           
             "legend": {
                 "titleFontSize": 12,
                 "labelFontSize": 11,
@@ -52,11 +52,11 @@ def lac_theme():
                 "padding": 10,
                 "direction": "vertical"
             },
-            # ----- COLOR SCHEME -----
+            
             "range": {
                 "category": {"scheme": "tableau10"}
             },
-            # ----- BACKGROUND -----
+            
             "background": "white",
         }
     }
