@@ -20,12 +20,15 @@ This reflects economic integration, demographic change, and climate-related pres
 </div>
 
 ---
-**Figure 2.** *Migration flows involving Latin America and the Caribbean (1990–2024).*
+**Figure 2.** *Global migration flows by origin and destination regions, 2024.*
 
-This visualization provides a global overview of migration connected to **Latin America and the Caribbean (LAC)** — distinguishing between:
-- **Migrants to LAC**, representing inflows from other world regions,
-- **Migrants within LAC**, showing intraregional mobility, and
-- **Migrants from LAC**, reflecting outward migration to destinations such as North America and Western Europe.
+This heatmap provides a global snapshot of migration flows in 2024, where each cell represents the total **migrant stock (in millions)** moving from an origin region (columns) to a destination region (rows).  
+The darkest cells correspond to the largest migration corridors — notably the strong connections between **Asia-Pacific** countries and within **North America** and **Western Europe**.
+
+Although the Latin America and Caribbean (LAC) region accounts for a smaller share of total global migration, it displays a distinctive pattern:  
+- Moderate **outflows to North America and Western Europe**,  
+- Growing **intraregional mobility within LAC**, and  
+- Limited **inflows from other regions**.
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
   <img src="chart_03_heatmap_flowa.png" width="70%">
