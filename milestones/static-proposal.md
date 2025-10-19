@@ -89,8 +89,8 @@ On the left, **destination countries** show that the **United States**, **Spain*
 On the right, **origin countries** highlight the persistent role of **Mexico**, **Venezuela**, and **Colombia** as major sources of migration, alongside smaller but consistent flows from **Caribbean** nations like **Cuba**, **Haiti**, and the **Dominican Republic**.
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
-  <img src="chart_04_dot_timeline_LAC_destinations.png" width="48%">
-  <img src="chart_04_dot_timeline_LAC.png" width="48%">
+  <img src="chart_04_dot_timeline_LAC_destinations.png" width="50%">
+  <img src="chart_04_dot_timeline_LAC.png" width="50%">
 </div>
 
 ---
