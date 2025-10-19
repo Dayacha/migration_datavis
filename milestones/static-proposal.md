@@ -60,8 +60,6 @@ In **Central America**, emigration remains heavily concentrated in **Mexico**, *
 The **Caribbean** displays a more diversified pattern, with sustained flows from **Cuba**, **Haiti**, and the **Dominican Republic**, reflecting both economic and environmental vulnerabilities.  
 Meanwhile, **South America** exhibits a major shift in recent years: **Venezuela** and **Colombia** have become dominant sources of migrants, while traditional corridors from **Argentina**, **Peru**, and **Brazil** remain relevant but proportionally smaller.
 
-These patterns underscore the **regional asymmetries** of migration in LAC — from persistent Central American northward routes to the Caribbean’s circular and transnational mobility, and the newer displacement dynamics emerging in South America.
-
 <div style="display: flex; justify-content: center; gap: 1rem;">
   <img src="chart_01_bars_LAC_CentralAmerica.png" width="32%">
   <img src="chart_01_bars_LAC_Caribbean.png" width="32%">
