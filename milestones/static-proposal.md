@@ -12,13 +12,4 @@ This project will explore how visualization and spatial analytics can reveal geo
 - Size: thausands of indicators across countries
 - Includes socioeconomic indicators (GDP per capita, unemployment rate, remittances, education, health) that can be used to identify structural vulnerabilities influencing migration.
 
-#### 2. International Organization for Migration (IOM) – Migration Data Portal
-- URL: [https://migrationdataportal.org/](https://lac.iom.int/en/data-and-resources)
-- Size: Country-level migration flows and stock estimates (2010–2023)
-- Provides migration inflows/outflows, remittances, and return migration data across countries and subregions, useful for establishing baseline migration trends.
-
-## Questions
-
-1. What normalization and feature-scaling strategies ensure comparability of indicators across countries and time periods?
-2. How difficult would it be to integrate national statistical data from each country to achieve municipality-level granularity, and what preprocessing or alignment steps would be required to harmonize those datasets?
-3. Is it feasible to map municipalities directly for each country, or would this require obtaining shapefiles (e.g., from GADM or GeoBoundaries) with each dataset’s geographic identifiers?
+![](milestones/chart_01_bars_LAC_Caribbean.png)
