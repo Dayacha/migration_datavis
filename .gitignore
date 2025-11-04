@@ -8,6 +8,6 @@ __pycache__/
 .idea/
 *.log
 output/
-*.csv
+#*.csv
 *.xlsx
-*.zip
+#*.zip
