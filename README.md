@@ -13,9 +13,7 @@ The visual narrative includes:
 - Rank line charts showing the top migration origins and destinations over time.
 - Scatter plots relating migration rates to key structural variables such as the Gini Index, Climate Risk Index, and Homicide Rate of countries in LAC.
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
-  <img src="static-viz/Migration_Dynamics_LAC.svg" width="100%">
-</div>
+![](static-viz/Migration_Dynamics_LAC.png)
 
 ## Data Sources
 
