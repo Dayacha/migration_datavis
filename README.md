@@ -22,3 +22,7 @@ The visual narrative includes:
 - UN DESA International Migrant Stock Database (2024 Revision) — Migration stocks by origin and destination. https://www.un.org/development/desa/pd/content/international-migrant-stock
 
 - Germanwatch - Climate Risk index 2025 https://www.germanwatch.org/en/cri
+
+## Charts Code
+
+You can find all the code in the src/charts_creation.ipynb file
