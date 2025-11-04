@@ -8,7 +8,7 @@ The visualization intends to explore the more than migration stock and go deeper
 
 The visual narrative includes:
 
-- A choropleth map of migration stock across the region.
+- A bubbles map of migration stock across the region.
 - Comparative graphs illustrating the GDP per capita gap between origin and destination countries.
 - Rank line charts showing the top migration origins and destinations over time.
 - Scatter plots relating migration rates to key structural variables such as the Gini Index, Climate Risk Index, and Homicide Rate of countries in LAC.
